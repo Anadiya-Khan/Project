@@ -9,6 +9,8 @@ const connectDB = async() => {
         console.log("Error connection failed",error)
         process.exit(1)
     }
+
+    // this method will return on promise 
 }
 
 export default connectDB
