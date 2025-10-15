@@ -7,6 +7,7 @@ class ApiResponse {
     }
 }
 
+export {ApiResponse}
 // status codes 
 // info - 100 -199
 // success - 200 - 299
